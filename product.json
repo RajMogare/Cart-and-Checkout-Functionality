@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name": "Butter",
+        "price": 50,
+        "image": "images/butter.png"
+    },
+    {
+        "id": 2,
+        "name": "Curd",
+        "price": 20,
+        "image": "images/curd.png"
+    },
+    {
+        "id": 3,
+        "name": "Ghee",
+        "price": 50,
+        "image": "images/ghee.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Milk",
+        "price": 40,
+        "image": "images/milk-bottle.png"
+    },
+    {
+        "id": 5,
+        "name": "Paneer",
+        "price": 120,
+        "image": "images/paneer.png"
+    },
+    {
+        "id": 6,
+        "name": "Ice-Cream",
+        "price": 20,
+        "image": "images/ice-cream.png"
+    }
+]
