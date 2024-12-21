@@ -27,17 +27,22 @@ A modern and responsive checkout page for the "Pride of Cows" brand, built with 
 
 ## Screenshots 
 
-![image](https://github.com/user-attachments/assets/e3884536-33ba-4303-ac7a-f5158eaf81ec)
+![Screenshot 1](https://github.com/user-attachments/assets/e3884536-33ba-4303-ac7a-f5158eaf81ec)
 
+![Screenshot 2](https://github.com/user-attachments/assets/243ebd7e-57ca-4ce3-ae51-1efeda4bc9d3)
 
-![image](https://github.com/user-attachments/assets/243ebd7e-57ca-4ce3-ae51-1efeda4bc9d3)
+## Live Demo
 
- 
+You can view the live project at:  
+[Live Demo](https://cart-and-checkout-functionality-3v48mngpm-rajmogares-projects.vercel.app/)
+
+## Project Recording
+
+Watch the project walkthrough here:  
+[Project Recording](https://drive.google.com/file/d/1Y5lQ77n_U8HgFA3VTTXcFvYqK2mQHKV8/view?usp=drive_link)
+
 ## Installation
 
 1. Clone the repository:
    ```bash
-   https://github.com/RajMogare/Cart-and-Checkout-Functionality.git
-   ```
-
-2. Run the  index.html file
+   git clone https://github.com/RajMogare/Cart-and-Checkout-Functionality.git
